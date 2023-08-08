@@ -1,2 +1,2 @@
-# Linguagem-De-Programacao
-Conteúdos de C++ estruturado
+# Estudos-LinguagemC
+Conteúdos sobre C
